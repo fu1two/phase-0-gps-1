@@ -1,6 +1,8 @@
-'**Cake**'
 
-'*Week_2_almost_done.*'
+`**Ice Cream**`
 
-'[Check Dev Bootcamp!](www.devbootcamp.com)'
+`*Week_2_almost_done.*`
+
+`[Check Dev Bootcamp!](www.devbootcamp.com)`
+
 
